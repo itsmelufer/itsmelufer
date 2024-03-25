@@ -4,7 +4,7 @@
 
 - 💼 Available for work
 
-- 🌱 Currently mastering **Ruby** and **Tailwind CSS**
+- 🌱 Currently learning **Algorithms**
 
 - 👨‍💻 Let's collaborate! Reach me on Discord: [![Discord](https://img.shields.io/badge/Discord-luwy2-7289DA)](https://discord.com/users/1010472552755384380)
 
