@@ -1,4 +1,4 @@
-# Luis - Frontend Developer 🚀
+# Zynrax - Frontend Developer 🚀
 
 <h3 align="center">Welcome to my profile!</h3>
 
