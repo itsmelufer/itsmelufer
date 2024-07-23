@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning **Algorithms**
 
-- 👨‍💻 Let's collaborate! Reach me on Discord: [![Discord](https://img.shields.io/badge/Discord-luwy2-7289DA)](https://discord.com/users/1010472552755384380)
+- 👨‍💻 Let's collaborate! Reach me on Discord: [![Discord](https://img.shields.io/badge/Discord-.zynrax-7289DA)](https://discord.com/users/1010472552755384380)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
