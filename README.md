@@ -24,5 +24,3 @@
 <p><a href="https://www.buymeacoffee.com/syna4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="syna4" /></a></p><br><br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=syna4&show_icons=true&locale=en" alt="syna4" /></p>
-
-<p><img align="center" style="margin-down: 7px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=syna4&show_icons=true&locale=en&layout=compact" alt="syna4" /></p>
