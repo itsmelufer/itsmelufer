@@ -25,4 +25,4 @@
 
 <p><img align="center" style="margin-down: 7px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=syna4&show_icons=true&locale=en&layout=compact" alt="syna4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syna4&show_icons=true&locale=en" alt="syna4" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=syna4&show_icons=true&locale=en" alt="syna4" /></p>
