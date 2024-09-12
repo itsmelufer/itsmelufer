@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **1uisvsn0c@gmail.com or on discord as syna4**
 
-- ⚡ Fun fact **I was never late for a deadline.**
+- ⚡ Fun fact **I have never been late for a deadline.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +23,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/syna4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="syna4" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syna4&show_icons=true&locale=en&layout=compact" alt="syna4" /></p>
+<p><img align="center" style="margin-down: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=syna4&show_icons=true&locale=en&layout=compact" alt="syna4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syna4&show_icons=true&locale=en" alt="syna4" /></p>
