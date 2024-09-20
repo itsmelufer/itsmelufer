@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Luwy</h1>
+<h1 align="center">capsyn.</h1>
 <h3 align="center">A regular developer working full time</h3>
 
 - 🔭 I’m currently working on **Sentinel a Windows 10/11 Debloater and Optimizer.**
