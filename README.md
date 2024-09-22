@@ -23,4 +23,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/syna4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="syna4" /></a></p><br><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=syna4&show_icons=true&locale=en" alt="syna4" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=capsyn&show_icons=true&locale=en" alt="capsyn" /></p>
