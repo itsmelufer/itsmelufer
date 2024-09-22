@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel and GraphQL**
 
-- 👨‍💻 Check my Portfolio [https://syna4.github.io/](https://capsyn.github.io/)
+- 👨‍💻 Check my Portfolio [https://capsyn.github.io/](https://capsyn.github.io/)
 
 - 📫 How to reach me **1uisvsn0c@gmail.com or on discord as syna4**
 
