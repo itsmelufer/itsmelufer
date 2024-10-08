@@ -5,7 +5,7 @@
 ```csharp
 github.com/capsyn
 dc   $  @capsyn
-srv  $  discord.gg/synaworld
+srv  $  discord.gg/JMaBKFsBsh
 ```
 &zwnj; 
 &zwnj; 
