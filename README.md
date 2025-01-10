@@ -1,5 +1,3 @@
-<img src="https://imgs.search.brave.com/aU9BiLgWIVf3wXHmXgDdBwnPhjyAH1t8NQqJGFkZDF8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L25wbS90d2Vtb2pp/QDExLjAuMS8yL3N2/Zy8xZjYzYy5zdmc" width="100px" alt="redface" align="left">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=007AFF&size=24&lines=trly.5+%7C+hi)](https://git.io/typing-svg)
 
 ```csharp
