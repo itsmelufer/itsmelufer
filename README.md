@@ -1,11 +1,10 @@
-<img src="https://wallpapers.com/images/hd/smug-face-red-pfp-5me3zp7vojc4ydjg.jpg" width="100px" alt="redface" align="left">
+<img src="https://i.pinimg.com/736x/fd/c2/4c/fdc24cfb4261fd70858f6d2262ff9281.jpg" width="100px" alt="redface" align="left">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=007AFF&size=24&lines=syna.cc+%7C+syn)](https://git.io/typing-svg)
 
 ```csharp
-github.com/capsyn
-dc   $  @capsyn
-srv  $  discord.gg/JMaBKFsBsh
+dc   $  @trly.5
+site  $ coming soon... 
 ```
 &zwnj; 
 &zwnj; 
