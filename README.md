@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=007AFF&size=24&lines=settleluis.5+%7C+hi)](https://git.io/typing-svg)
 
 ```csharp
-dc   $  @trly.5
+dc   $  @truelysins
 site  $ coming soon... 
 ```
 &zwnj; 
