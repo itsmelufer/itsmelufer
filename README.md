@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=007AFF&size=24&lines=settleluis+%7C+hi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=007AFF&size=24&lines=Louis+%7C+coding+coding+&+coding..)](https://git.io/typing-svg)
 
 ```csharp
-dc   $  @truelysins
+dc   $  @nekso_.
 site  $ coming soon... 
 ```
 &zwnj; 
