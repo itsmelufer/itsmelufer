@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=007AFF&size=24&lines=Luis+%7C+Programmer+and+Gamer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=007AFF&size=24&lines=Luis+%7C+Coder+and+Gamer)](https://git.io/typing-svg)
 
 ```csharp
 dc   $  @nekso_.
