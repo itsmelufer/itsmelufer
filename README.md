@@ -2,7 +2,7 @@
 
 ```csharp
 dc   $  @fernanditwo
-site  $ coming soon... 
+site  $ https://www.syna.cc/ 
 ```
 &zwnj; 
 &zwnj; 
