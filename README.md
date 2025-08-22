@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=007AFF&size=24&lines=lu+%7C+programmer)](https://git.io/typing-svg)
 
 ```csharp
-discord   $  @fernanditwo
 project-site  $ https://www.syna.cc
 ```
 &zwnj; 
